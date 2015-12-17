@@ -1,7 +1,7 @@
 name: iKRGeu
 favicon: null
-layout_spectrum: 0.682149620493874
-typography_spectrum: 0.03812670963816345
+layout_spectrum: 1
+typography_spectrum: 0.66225
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6921990001574159
-  lightness: 0.2970545180141926
-  saturation: 0.056943537667393684
-  rhythmicContrast: 0.3746239983011037
+    - '#000000'
+    - '#9708fe'
+    - '#39fd00'
+    - '#3c00fe'
+    - '#f51e1e'
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
