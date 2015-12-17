@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[iKRGeu]]></title>
+        <description><![CDATA[iKRGeu]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 20:00:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rust]]></title>
+            <description><![CDATA[<article><h1>Rust</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3938b030714c91c97f9a3bd2169dea1ed634cf6.jpg"></article>]]></description>
+            <link>undefinedrust/index.html</link>
+            <guid isPermaLink="false">1d1d0854-ec1b-4ba8-9402-b4e25742a406</guid>
+            <pubDate>Thu, 17 Dec 2015 20:00:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
