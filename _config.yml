@@ -2,12 +2,13 @@ name: iKRGeu
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.66225
+title: Just Natural Photography
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-72522600-1
   facebook: null
   twitter: null
 opengraph:
